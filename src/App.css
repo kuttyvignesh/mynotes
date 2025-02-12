@@ -1,0 +1,66 @@
+/* Default to light theme */
+:root {
+  --background-light: #ffffff;
+  --text-light: #000000;
+
+  --background-dark: #140858;
+  --text-dark: #ffffff;
+}
+
+.app {
+  font-family: Arial, sans-serif;
+  transition: background-color 0.3s, color 0.3s;
+  padding: 20px;
+}
+
+.app.light {
+  background-color: var(--background-light);
+  color: var(--text-light);
+}
+
+.app.dark {
+  background-color: var(--background-dark);
+  color: var(--text-dark);
+}
+
+.theme-toggle-btn {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.theme-toggle-btn:hover {
+  background-color: #0056b3;
+}
+.head{
+  text-align: center;
+  font-weight: 800;
+  letter-spacing:3px;
+
+}
+.text{
+  text-align: center;
+}
+.text1{
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.text2{
+padding: 40px;
+}
+.btn{
+  background:green;
+  border:none;
+  height:30px;
+  width:80px;
+  color:white;
+  border-radius: 20px;
+  margin-top:20px;
+}
