@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kuttyvignesh/mynotes/static/css/main.76f6b3e7.css",
+    "main.js": "/kuttyvignesh/mynotes/static/js/main.0e1f60a8.js",
+    "index.html": "/kuttyvignesh/mynotes/index.html",
+    "main.76f6b3e7.css.map": "/kuttyvignesh/mynotes/static/css/main.76f6b3e7.css.map",
+    "main.0e1f60a8.js.map": "/kuttyvignesh/mynotes/static/js/main.0e1f60a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76f6b3e7.css",
+    "static/js/main.0e1f60a8.js"
+  ]
+}
